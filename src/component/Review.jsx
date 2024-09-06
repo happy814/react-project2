@@ -1,10 +1,10 @@
 import React from "react";
 import { REVIEW } from "../constants";
 import xaviour from "../assets/xaviour.jpeg";
-import customer1 from "../assets/customer1.jpeg";
-import customer2 from "../assets/customer2.jpeg";
-import customer3 from "../assets/customer3.jpeg";
-import customer4 from "../assets/customer4.jpeg";
+import customer1 from "../assets/customer1.AVIF";
+import customer2 from "../assets/customer2.AVIF";
+import customer3 from "../assets/customer3.AVIF";
+import customer4 from "../assets/customer4.AVIF";
 import { motion } from "framer-motion";
 
 const containerVar = {

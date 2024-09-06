@@ -1,17 +1,17 @@
-import dish1 from "../assets/dish1.WEBP";
-import dish2 from "../assets/dish2.WEBP";
-import dish3 from "../assets/dish3.WEBP";
-import dish4 from "../assets/dish4.WEBP";
-import dish5 from "../assets/dish5.WEBP";
-import dish6 from "../assets/dish6.WEBP";
-import dish7 from "../assets/dish7.WEBP";
-import dish8 from "../assets/dish8.WEBP";
-import dish9 from "../assets/dish9.WEBP";
-import dish10 from "../assets/dish10.WEBP";
+import dish1 from "../assets/dish1.jpeg";
+import dish2 from "../assets/dish2.AVIF";
+import dish3 from "../assets/dish3.AVIF";
+import dish4 from "../assets/dish4.AVIF";
+import dish5 from "../assets/dish5.AVIF";
+import dish6 from "../assets/dish6.AVIF";
+import dish7 from "../assets/dish7.AVIF";
+import dish8 from "../assets/dish8.AVIF";
+import dish9 from "../assets/dish9.AVIF";
+import dish10 from "../assets/dish10.AVIF";
 
-import italian from "../assets/italian.jpeg";
-import japanese from "../assets/japanese.jpeg";
-import indian from "../assets/indian.jpeg";
+import italian from "../assets/italian.AVIF";
+import japanese from "../assets/japanese.AVIF";
+import indian from "../assets/indian.AVIF";
 
 import { FaXTwitter, FaFacebook, FaInstagram } from "react-icons/fa6";
 

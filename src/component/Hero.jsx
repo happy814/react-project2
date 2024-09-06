@@ -1,7 +1,7 @@
 import React from "react";
-import video from "../assets/hero.mp4";
+import video from "../assets/hero.webm";
 import logo from "../assets/logo.png";
-import hero from "../assets/hero.mp4";
+import hero from "../assets/hero.AVIF";
 import { motion } from "framer-motion";
 
 function Hero() {
